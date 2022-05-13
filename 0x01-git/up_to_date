@@ -1,0 +1,4 @@
+GIT COMMANDS USED TO MERGE AND UPDATE README
+1. git fetch
+2. git pull
+3. git merge master
